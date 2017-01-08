@@ -231,15 +231,15 @@
 
 .opc.opc-firststep-login .section:not(#opc-login) .step-title,
 .opc-block-progress-step-login {
-    transition: opacity 300ms linear 0;
+    transition: opacity 300ms linear 0s;
 }
 
 .opc.opc-firststep-login .section#opc-login .step-title .number {
-    transition: width 80ms linear 0;
+    transition: width 80ms linear 0s;
 }
 
 .opc.opc-firststep-login .section#opc-login .step-title h2 {
-    transition: margin-left 80ms linear 0;
+    transition: margin-left 80ms linear 0s;
 }
 
 /* When a user progresses from the "Checkout Method" to "Billing Information" for the first time, the              */
